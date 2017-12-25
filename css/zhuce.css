@@ -1,0 +1,148 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+
+   background: url(../img/images/wallpaper.jpg);
+   background-size: cover;
+}
+ul li{
+	list-style: none;
+}
+ul li a{
+	text-decoration: none;
+}
+#wk{
+	width:980px ;
+	height: 379px;
+	margin: 20px auto;
+	margin-top:20%;
+	background:#F9F9F9 ;
+}
+#wk .zb{
+	
+	width:488px ;
+	height: 379px;
+	float: left;
+	height: 85%;
+	
+}
+#wk .zb .da{
+	border-right:1px solid  #CCCCCC ;
+	width:488px ;
+	height: 310px;
+	margin-top:33px ;
+}
+#wk .zb1,.v1{
+	border-bottom:4px solid #75c50a ;
+	width: 85px;
+	height: 34px;
+	line-height: 34px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #606060;
+	padding-left: 4px;
+	letter-spacing: 2px;
+	
+}
+#wk .zb1{
+	margin: 0px 43px
+}
+#wk .zb .zb2{
+	width: 321px;
+	height: 187px;
+	margin: 45px 0px 0px 43px;
+	
+}
+#wk .zb .zb2 ul li{
+	margin-bottom: 20px;
+}
+#wk .zb .zb2 ul li .zb21{
+  	padding-left: 27px;
+}
+#wk .zb .zb2 ul li .zb1{
+	margin-left: 20px;
+
+}
+#wk .zb .zb2 ul li span {
+	color:#606060;
+}
+#wk .zb .zb2 ul li input{
+	border: 1px solid #CCCCCC;
+	width: 237px;
+	height: 33px;
+	border-radius:3px ;
+}
+/*#wk .zb .zb3{
+	border: 1px solid red;
+	width: 110px;
+	height: 35px;
+	margin:10px 145px;
+}*/
+#wk .zb .zb3 .zb31{
+	border: 1px solid #82cb2d;
+	width: 110px;
+	height: 35px;
+	border-radius:3px ;
+	background: url(../img/images/icon_3.png) -0px -90px;
+	font-size: 16px;
+	color: white;
+   	margin:0px 145px
+	
+}
+#wk .yb{
+	width:488px ;
+	height: 379px;
+	float: right;
+}
+#wk .yb .v1{
+	margin: 34px 43px
+}
+#wk .yb .yb1{
+	width: 381px;
+	height: 184px;
+	margin:45px 0px 0px  43px;
+}
+#wk .yb .yb1 .yb11,.yb13,.yb15{
+	width:138px ;
+	height:38px ;
+	float: left;
+	margin-bottom: 22px;
+	border: 1px solid #CCCCCC;
+	border-radius:3px ;
+}
+#wk .yb .yb1 .yb12,.yb14{
+	width:170px ;
+	height:38px ;
+	float: right;
+	margin-bottom: 22px;
+	border: 1px solid #CCCCCC;
+	border-radius:3px ;
+}
+#wk .yb .yb1 .yb11{
+	background: url(../img/images/head.png) -704px -122px;
+}
+#wk .yb .yb1 .yb12{
+	background: url(../img/images/head.png) -864px -122px;
+}
+#wk .yb .yb1 .yb13{
+	background: url(../img/images/head.png) -704px -179px;
+}
+#wk .yb .yb1 .yb14{
+	background: url(../img/images/head.png) -864px -179px;
+}
+#wk .yb .yb1 .yb15{
+	background: url(../img/images/head.png) -704px -235px;
+}
+#wk .yb .yb2{
+	width:180px ;
+	height:31px ;
+	margin-top: 20px;
+	margin-left: 270px;
+}
+#wk .yb .yb2 ul li{
+	font-size: 15px;
+	color:#551a8b ;
+}
+

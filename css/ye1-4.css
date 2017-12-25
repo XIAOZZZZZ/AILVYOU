@@ -1,0 +1,256 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.clear{
+	clear: both;
+	overflow: hidden;
+	height: 0px;
+}
+ul li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+body{
+	background:#f0f0f0  ;
+}
+#tou{
+	width: 100%;
+	height:103px;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	z-index: 999;
+	border-bottom: 1px solid #cccccc;
+	
+}
+#tou .tou1{
+	width: 100%;
+	height: 35px;
+	background: black;
+}
+#tou .tou1 .tous{
+	width: 972px;
+	height: 34px;
+	margin: 0px auto;
+}
+#tou .tou1 .tous .zuo{
+	width: 400px;
+	height: 34px;
+	line-height: 34px;
+	float: left;
+}
+
+
+#tou .tou1 .tous .zuo ul li{
+	float: left;
+	
+}
+#tou .tou1 .tous ul li a{
+	color:white ;
+	display: block;
+	padding: 0px 5px;
+}
+
+#tou .tou1 .tous .you{
+	width: 400px;
+	height: 34px;
+	line-height: 34px;
+	float: right;
+}
+#tou .tou1 .tous .you ul li{
+	list-style: none;
+	float:right;	
+}
+#tou .tou1 .tous .you ul li a .tu1{
+	width: 30px;
+	height: 27px;
+}
+#tou .tou1 .tous .you ul li .tu2{
+	background: url(../img/images/head.png) -0px -186px no-repeat;
+	width: 30px;
+	height: 27px;
+}
+#tou .tou1 .tous .you ul li .tu3{
+	background: url(../img/images/head.png) -105px -183px no-repeat;
+	width: 30px;
+	height: 27px;
+}
+#tou .tou2{
+	width: 100%;
+	height: 68px;
+	margin: 0px auto;
+	background:#f0f0f0 ;
+}
+#tou .tou2 .toux{
+	width: 972px;
+	height: 67px;
+	line-height: 59px;
+	margin: 0px auto;
+}
+#tou .tou2 .toux .logo{
+	width:123px ;
+	height: 59px;
+	float:left;
+	padding:4px 0px ;
+}
+#tou .tou2 .toux ul li{
+	margin: 15px 0px;
+	height: 30px;
+	line-height: 30px;
+	float:left;
+}
+#tou .tou2 .toux ul li a{
+	padding-bottom: 0px;;
+	color:#606060;
+	font-size: 17px;
+	display: block;
+	margin: 0px 7px;
+	
+}
+#tou .tou2 .toux ul li .b1{
+	font-size:21px ;
+}
+#tou .tou2 .toux ul li .b2{
+	font-size:10px ;
+}
+#tou .tou2 .toux .b3{
+
+	width: 150px;
+	height:25px;
+	color:#a9a9a9 ;
+    float:right;
+    margin:20px 2px;
+	
+}
+
+#tou .tou2 .toux  .b4{
+    margin-top: 20px;
+	background: url(../img/images/head.png) -111px -127px no-repeat;
+	border: 1px  solid #CCCCCC;
+	width: 34px;
+	height: 29px;
+	float: right;
+}
+.da{
+	border: 1px solid #F9F9F9;
+	width: 972px;
+	height: 2415px;
+	margin: 0px auto;
+	background: #f9f9f9;
+	margin-top:104px;
+}
+.da .x1,.x2{
+	width: 225px;
+	height: 2346px;
+	float: left;
+}
+.da .x1{
+	margin: 40px 0px 0px 27px ;
+}
+.da .x2{
+	margin:40px 0px 0px 4px ;
+}
+.da .t1,.t2,.t3,.t4,.t5,.t6,.t7,.t8,.t9,.t10,.t11,.t12{
+	border: 1px solid #f1f1f1;
+	width:205px ;
+	padding: 10px;
+	margin-bottom: 4px;
+}
+.da .t1{
+	height:310px;
+}
+.da  a{
+	font-size:12px ;
+	color: #333333;
+	font-weight:bold ;
+}
+.da .t2{
+	height: 551px;
+}
+.da .t2 img{
+	width: 204px;
+	height: 280px;
+}
+.da .t3{
+	height: 351px;
+}
+.da .t3 img,.t4 img,.t5 img,.t6 img,.t7 img,.t8 img,.t9 img,.t11 img,.t12 img{
+	width: 204px;
+	height:133px;
+}
+.da .t4{
+	height:317px ;
+}
+.da .t5{
+	height:315px ;
+}
+.da .t6{
+	height:335px ;
+}
+.da .t7{
+	height:319px ;
+}
+.da .t8{
+	height:385px ;
+}
+.da .t9{
+	height:249px ;
+}
+.da .t10{
+	height:268px;
+}
+.da .t10 img{
+	width: 204px;
+	height:151px ;
+}
+.da .t11{
+	height:344px;
+}
+.da .t12{
+	height:251px;
+}
+
+
+#xb{
+	width: 100%;
+	height: 60px;
+	border-top:1px solid #CCCCCC ;
+	margin-top: 20PX;
+}
+#xb .xb1{
+	width: 140px;
+	height: 50px;
+	margin: 0px auto;
+	padding-top: 10px;
+}
+.yj{
+	position:fixed ;
+	right: 30px;
+	bottom: 10px;
+	
+	width: 58px;
+	height: 70px;
+	text-align: center;
+	line-height: 30px;
+    
+    background:#3687d9;
+    position: fixed;
+}
+.yj a{
+	font-size: 12px;
+	color: #FFFFFF;
+
+}
+.yj1{
+	width: 30px;
+	height: 25px;
+	margin: 0px auto;
+	margin-top:10px ;
+	background: url(../img/images/sjbz_survey.png)2px -0px;
+	
+}
+
+
